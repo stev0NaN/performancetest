@@ -1,3 +1,6 @@
+[Proyecto_Final_SanchezdelaBarquera.pptx.pdf](https://github.com/stev0NaN/performancetest/files/12795357/Proyecto_Final_SanchezdelaBarquera.pptx.pdf)
+
+
 **Análisis de datos GPS para mejorar el rendimiento de un equipo de fútbol soccer.
 
 **Descripción
@@ -32,3 +35,4 @@ Para hacerlo, puedes contactarme a través de mi perfil en GitHub.
 
 Si tienes alguna duda o sugerencia sobre este proyecto, no dudes en contactarme a través de mi perfil
 en GitHub.
+
