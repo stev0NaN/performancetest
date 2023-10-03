@@ -28,10 +28,6 @@ Si deseas contribuir a este proyecto, puedes enviar sugerencias para mejorar el 
 incluso colaborar en la recolección de datos de GPS de equipos de fútbol soccer.
 Para hacerlo, puedes contactarme a través de mi perfil en GitHub.
 
-**Licencia
-
-Este proyecto se encuentra bajo la Licencia MIT. Puedes consultar los términos de la licencia en el archivo LICENSE.md.
-
 **Contacto
 
 Si tienes alguna duda o sugerencia sobre este proyecto, no dudes en contactarme a través de mi perfil
